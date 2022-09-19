@@ -1,0 +1,32 @@
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\bin\Debug\netcoreapp3.1\Photo.exe
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\bin\Debug\netcoreapp3.1\Photo.deps.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\bin\Debug\netcoreapp3.1\Photo.runtimeconfig.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\bin\Debug\netcoreapp3.1\Photo.runtimeconfig.dev.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\bin\Debug\netcoreapp3.1\Photo.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\bin\Debug\netcoreapp3.1\Photo.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\obj\Debug\netcoreapp3.1\Photo.csprojAssemblyReference.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\obj\Debug\netcoreapp3.1\Photo.AssemblyInfoInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\obj\Debug\netcoreapp3.1\Photo.AssemblyInfo.cs
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\obj\Debug\netcoreapp3.1\Photo.csproj.CoreCompileInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\obj\Debug\netcoreapp3.1\Photo.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\obj\Debug\netcoreapp3.1\Photo.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 9\PhotoAnswer\obj\Debug\netcoreapp3.1\Photo.genruntimeconfig.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\bin\Debug\netcoreapp3.1\Photo.exe
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\bin\Debug\netcoreapp3.1\Photo.deps.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\bin\Debug\netcoreapp3.1\Photo.runtimeconfig.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\bin\Debug\netcoreapp3.1\Photo.runtimeconfig.dev.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\bin\Debug\netcoreapp3.1\Photo.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\bin\Debug\netcoreapp3.1\Photo.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\obj\Debug\netcoreapp3.1\Photo.csproj.AssemblyReference.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\obj\Debug\netcoreapp3.1\Photo.AssemblyInfoInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\obj\Debug\netcoreapp3.1\Photo.AssemblyInfo.cs
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\obj\Debug\netcoreapp3.1\Photo.csproj.CoreCompileInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\obj\Debug\netcoreapp3.1\Photo.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\obj\Debug\netcoreapp3.1\Photo.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Solutions\5. Photo\obj\Debug\netcoreapp3.1\Photo.genruntimeconfig.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Workshop Classes\5. Photo\obj\Debug\netcoreapp3.1\Photo.csproj.AssemblyReference.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Workshop Classes\5. Photo\obj\Debug\netcoreapp3.1\Photo.AssemblyInfoInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Workshop Classes\5. Photo\obj\Debug\netcoreapp3.1\Photo.AssemblyInfo.cs
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Workshop Classes\5. Photo\obj\Debug\netcoreapp3.1\Photo.csproj.CoreCompileInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Workshop Classes\5. Photo\obj\Debug\netcoreapp3.1\Photo.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Week 9 - Inheritance\Workshop Classes\5. Photo\obj\Debug\netcoreapp3.1\Photo.pdb
