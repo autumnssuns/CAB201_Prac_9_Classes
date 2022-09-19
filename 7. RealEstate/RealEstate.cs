@@ -5,7 +5,7 @@
     /// </summary>
     class RealEstate
     {
-
+        
         /// <summary>
         /// The street number.
         /// </summary>
