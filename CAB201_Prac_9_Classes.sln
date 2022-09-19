@@ -7,11 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C1_Letter", "1. Letter\C1_L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C3_Person", "3. Person\C3_Person.csproj", "{8A9CDA23-373E-4C3E-AF85-79859C40486C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{FF7647B7-5473-457D-BB47-644CAF8993F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{FF7647B7-5473-457D-BB47-644CAF8993F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biscuit", "Biscuit\Biscuit.csproj", "{B64B400C-D453-44BC-B72E-590394CB79E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biscuit", "Biscuit\Biscuit.csproj", "{B64B400C-D453-44BC-B72E-590394CB79E8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C5_Photo", "5. Photo\C5_Photo.csproj", "{2B228B64-4DF4-4D20-BB25-9B834BEC9B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Hint", "Assignment_Hint\Assignment_Hint.csproj", "{4719B854-73CE-4DA7-9450-B37BEA33C6BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C7_RealEstate", "7. RealEstate\C7_RealEstate.csproj", "{E688E705-EEEB-4E7C-9D88-56C77146FC38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{2B228B64-4DF4-4D20-BB25-9B834BEC9B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B228B64-4DF4-4D20-BB25-9B834BEC9B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B228B64-4DF4-4D20-BB25-9B834BEC9B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4719B854-73CE-4DA7-9450-B37BEA33C6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4719B854-73CE-4DA7-9450-B37BEA33C6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4719B854-73CE-4DA7-9450-B37BEA33C6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4719B854-73CE-4DA7-9450-B37BEA33C6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E688E705-EEEB-4E7C-9D88-56C77146FC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E688E705-EEEB-4E7C-9D88-56C77146FC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E688E705-EEEB-4E7C-9D88-56C77146FC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E688E705-EEEB-4E7C-9D88-56C77146FC38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
